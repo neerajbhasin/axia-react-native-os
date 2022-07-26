@@ -1,5 +1,5 @@
 {
-  "name": "react-native-os",
+  "name": "@axiacoinorg/axia-react-native-os",
   "version": "1.2.7",
   "description": "node's os module for react-native",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aprock/react-native-os"
+    "url": "https://github.com/neerajbhasin/react-native-os"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -17,7 +17,7 @@
     "babel-eslint": "^10.0.3",
     "eslint-plugin-react": "^3.11.3"
   },
-  "homepage": "https://github.com/aprock/react-native-os",
+  "homepage": "https://github.com/neerajbhasin/react-native-os",
   "keywords": [
     "react-component",
     "reactnative",
@@ -28,9 +28,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aprock/react-native-os/issues"
+    "url": "https://github.com/neerajbhasin/react-native-os/issues"
   },
-  "homepage": "https://github.com/aprock/react-native-os",
+  "homepage": "https://github.com/neerajbhasin/react-native-os",
   "devDependencies": {
     "babel-eslint": "^4.1.6",
     "eslint-plugin-react": "^3.11.3"
